@@ -2,7 +2,13 @@
 
 # Created By: Alex De Meo
 # Date: 03/25/2022
-# Description:
+# Description: This is the final Assignment of the year. I have packed three
+# programs into one, a Sum Matcher program that takes a list of numbers and 
+# a desired sum, it then finds all the possible pairs of numbers that add up to
+# that desired sum; an Index Finder program that finds the index of a desired
+# element inside of a list; finally, a Remainder program that takes a list of 
+# integers and a divisor, then finds the remainder of each of the elements in
+# the list, divided by the divisor.
 
 
 # This function converts a list of strings into a list of integers. Each program
